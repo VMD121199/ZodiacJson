@@ -1,8 +1,14 @@
 {
    "name":"Mouse",
-   "image":"https://st.quantrimang.com/photos/image/2018/10/08/hinh-nen-con-chuot-2.jpg",
-   "attribute":[{
-      "force":"Yin",
-      "element":"Wind"
-   }]
+   "image":"https://gateway.pinata.cloud/ipfs/QmaKdviXmp29bz2UBUgLkb8nraLPFQvoukREtqUbYAFrXm",
+   "attributes":[
+      {
+         "trait_type":"force",
+         "value":"Yin"
+      },
+      {
+         "trait_type":"element",
+         "value":"Wind"
+      }
+   ]
 }
