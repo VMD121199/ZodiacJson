@@ -1,8 +1,14 @@
 {
    "name":"Ox",
    "image":"https://gateway.pinata.cloud/ipfs/QmURyN1YnqBHSiF4aGLJ8R7jXAgvBENPpGW9mwGxyjQXHh",
-   "attribute":[{
-      "force":"Yin",
-      "element":"Fire"
-   }]
+   "attribute":[
+      {
+         "trait_type":"force",
+         "value":"Yin"
+      },
+      {
+         "trait_type":"element",
+         "value":"Fire"
+      }
+   ]
 }
